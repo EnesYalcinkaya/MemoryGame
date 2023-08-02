@@ -20,7 +20,7 @@ class _loginscreenState extends State<loginscreen> {
         MaterialPageRoute(builder: (context) => Game()),
       );
     } else {
-      print('Please fill in both email and password fields.');
+      print('Please fill in both email and password fields..');
     }
   }
 
